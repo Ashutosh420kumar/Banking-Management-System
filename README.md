@@ -6,7 +6,6 @@ Follow these steps to set up and run the project on your local machine:
 
 Clone the Repository:
 
-git clone https://github.com/YourUsername/YourBankingSystemRepo.git
 Compile the Java Code:
 
 javac *.java
