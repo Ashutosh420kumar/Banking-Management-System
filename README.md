@@ -23,7 +23,7 @@ Welcome to the **Banking System** project! This Java-based application allows yo
 
 - Java
 - JDBC (Java Database Connectivity)
-- MySQL (or preferred database system)
+- ORACLE (or preferred database system)
 
 ## 📽️ Project Demo
 
